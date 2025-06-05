@@ -80,5 +80,13 @@ This project aims to:
 
 Aspiring Data Scientist | Python Enthusiast
 
+📄 License
+This project is for educational purposes and personal learning.
+
+## 📬 Contact
+Feel free to connect or give feedback!
+📧 Email: sania.khatun18022006@gmail.com
+🌐 LinkedIn: : www.linkedin.com/in/tania-khatun-024a30324
+
 Feel free to connect and explore more of my projects.
 
